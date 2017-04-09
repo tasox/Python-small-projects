@@ -1,4 +1,3 @@
-@@ -0,0 +1,26 @@
 #!/usr/bin/python
 
 import socket
